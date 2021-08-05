@@ -1,6 +1,6 @@
 name: nork_ui
-description: NOR/K A Flutter UI Kit.
-version: 0.0.1-dev
+description: NOR/K A Flutter UI kit [animating icons - buttons - texts - counter - page transitions - toasts - dialogs - pagination - splash screen - etc]
+version: 0.0.2-dev
 homepage: https://nork.link/FlutterUIKit
 repository: https://github.com/getnork/flutter-ui-kit
 issue_tracker: https://github.com/getnork/flutter-ui-kit/issues
