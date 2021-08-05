@@ -1,6 +1,6 @@
 name: nork_ui
 description: NOR/K A Flutter UI Kit.
-version: 0.0.1
+version: 0.0.1-dev
 homepage: https://nork.link/FlutterUIKit
 repository: https://github.com/getnork/flutter-ui-kit
 issue_tracker: https://github.com/getnork/flutter-ui-kit/issues
